@@ -1,2 +1,4 @@
-# Unnoficial-Windows-debugger-
-This is just a hobby project I created to see if I could play with windows. This may break your PC!
+# The unnoficial windows debugger
+
+>[!CAUTION]
+>This program is not authorized by Microsoft. This code has obfuscation and signing methods to prevent unauthorized access to this tool.
